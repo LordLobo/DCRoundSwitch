@@ -1,5 +1,9 @@
-DCRoundSwitch
+DCRoundSwitch - LordLobo's fork
 ============
+
+LordLobo fork since DC isn't merging pulls on his branch. [@lordlobo](http://twitter.com/lordlobo)
+
+---- Original README contents follow ----
 
 Twitter: [@patr](http://twitter.com/patr)
 
